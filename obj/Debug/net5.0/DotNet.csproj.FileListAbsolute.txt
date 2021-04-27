@@ -1,0 +1,15 @@
+/Users/andrew/Documents/Dev Files/DotNet/bin/Debug/net5.0/DotNet.deps.json
+/Users/andrew/Documents/Dev Files/DotNet/bin/Debug/net5.0/DotNet.runtimeconfig.json
+/Users/andrew/Documents/Dev Files/DotNet/bin/Debug/net5.0/DotNet.runtimeconfig.dev.json
+/Users/andrew/Documents/Dev Files/DotNet/bin/Debug/net5.0/DotNet.dll
+/Users/andrew/Documents/Dev Files/DotNet/bin/Debug/net5.0/ref/DotNet.dll
+/Users/andrew/Documents/Dev Files/DotNet/bin/Debug/net5.0/DotNet.pdb
+/Users/andrew/Documents/Dev Files/DotNet/obj/Debug/net5.0/DotNet.csprojAssemblyReference.cache
+/Users/andrew/Documents/Dev Files/DotNet/obj/Debug/net5.0/DotNet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrew/Documents/Dev Files/DotNet/obj/Debug/net5.0/DotNet.AssemblyInfoInputs.cache
+/Users/andrew/Documents/Dev Files/DotNet/obj/Debug/net5.0/DotNet.AssemblyInfo.cs
+/Users/andrew/Documents/Dev Files/DotNet/obj/Debug/net5.0/DotNet.csproj.CoreCompileInputs.cache
+/Users/andrew/Documents/Dev Files/DotNet/obj/Debug/net5.0/DotNet.dll
+/Users/andrew/Documents/Dev Files/DotNet/obj/Debug/net5.0/ref/DotNet.dll
+/Users/andrew/Documents/Dev Files/DotNet/obj/Debug/net5.0/DotNet.pdb
+/Users/andrew/Documents/Dev Files/DotNet/obj/Debug/net5.0/DotNet.genruntimeconfig.cache
